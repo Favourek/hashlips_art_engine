@@ -13,7 +13,7 @@ report.[0-9]_.[0-9]_.[0-9]_.[0-9]_.json
 
 # Runtime data
 
-pids
+pids:
 _.pid
 _.seed
 \*.pid.lock
@@ -68,7 +68,7 @@ typings/
 
 # Optional eslint cache
 
-.eslintcache
+."eslintcache",
 
 # Microbundle cache
 
